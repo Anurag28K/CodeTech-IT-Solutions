@@ -120,19 +120,7 @@ Two classification models are trained and evaluated:
 
 ### **Logistic Regression Model:**
 
-i. Training the model using logistic regression.
-
-ii. Evaluating the model's accuracy on both training and testing data.
-
-iii. Calculating precision, recall, and F1-score.
-
 ### **Random Forest Classifier:**
-
-i. Training the model using a random forest classifier.
-
-ii. Evaluating the model's accuracy on both training and testing data.
-
-iii. Calculating precision, recall, and F1-score.
 
 ## **Results**
 
