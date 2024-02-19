@@ -75,3 +75,88 @@ The machine learning modeling section includes implementing and evaluating vario
 3. Random Forest Regression: Implementing and evaluating a random forest regression model.
 
 4. Gradient Boosting Regression: Implementing and evaluating a gradient boosting regression model.
+
+
+
+
+#**Credit Card Fraud Detection Project**
+
+## **Introduction**
+
+The goal of this project is to develop a machine learning model to detect fraudulent credit card transactions. We explore various steps including data loading, exploratory data analysis, preprocessing, model training, and evaluation.
+
+## **Dataset Description**
+
+The dataset used in this project is the credit card transaction dataset (creditcard.csv). It contains information about credit card transactions including features such as transaction amount, time, and class (0 for normal transactions and 1 for fraudulent transactions).
+
+## **Exploratory Data Analysis (EDA)**
+
+The exploratory data analysis section involves:
+
+i. Loading the dataset and examining the first and last 5 rows.
+
+ii. Checking dataset information and identifying missing values.
+
+iii. Visualizing the distribution of normal and fraudulent transactions using a count plot.
+
+## **Data Preprocessing**
+
+The preprocessing steps include:
+
+i. Separating the data into legitimate and fraudulent transactions.
+
+ii. Handling missing values.
+
+iii. Performing under-sampling to create a balanced dataset.
+
+iv. Splitting the data into features and targets.
+
+v. Standardizing the features using StandardScaler.
+
+
+## **Model Training and Evaluation**
+
+Two classification models are trained and evaluated:
+
+### **Logistic Regression Model:**
+
+i. Training the model using logistic regression.
+
+ii. Evaluating the model's accuracy on both training and testing data.
+
+iii. Calculating precision, recall, and F1-score.
+
+### **Random Forest Classifier:**
+
+i. Training the model using a random forest classifier.
+
+ii. Evaluating the model's accuracy on both training and testing data.
+
+iii. Calculating precision, recall, and F1-score.
+
+## **Results**
+
+### **Logistic Regression Model:**
+
+Accuracy on Training data: 95.3%
+
+Accuracy on Testing data: 91.9%
+
+Precision: 96.6%
+
+Recall: 86.7%
+
+F1-score: 91.4%
+
+### **Random Forest Classifier:**
+
+Accuracy on Training data: 100%
+
+Accuracy on Testing data: 91.9%
+
+Precision: 96.6%
+
+Recall: 86.7%
+
+F1-score: 91.4%
+   
