@@ -27,6 +27,10 @@ Model Building: Implemented logistic regression for binary classification.
 
 Model Evaluation: Evaluated the model's performance using accuracy score on training and testing datasets.
 
+
+
+
+
  
 # **2-Movie Rating Prediction With Python**
 
