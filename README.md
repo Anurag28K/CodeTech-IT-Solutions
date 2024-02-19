@@ -46,15 +46,15 @@ The IMDb Movies India dataset contains information about Indian movies, includin
 
 The exploratory data analysis section includes various analyses and visualizations to understand the dataset:
 
-Number of Movies Released Each Year: A bar chart displaying the number of movies released each year.
+1.Number of Movies Released Each Year: A bar chart displaying the number of movies released each year.
 
-Number of Movies Released Per Genre: A bar chart illustrating the distribution of movies across different genres.
+2.Number of Movies Released Per Genre: A bar chart illustrating the distribution of movies across different genres.
 
-Top Directors with the Most Movies: A bar chart showcasing the top directors with the highest number of movies.
+3.Top Directors with the Most Movies: A bar chart showcasing the top directors with the highest number of movies.
 
-Top Actors with the Most Movies: A bar chart displaying the top actors with the highest number of movies.
+4.Top Actors with the Most Movies: A bar chart displaying the top actors with the highest number of movies.
 
-Movie Duration vs. Rating Scatter Plot: A scatter plot visualizing the relationship between movie duration and rating.
+5.Movie Duration vs. Rating Scatter Plot: A scatter plot visualizing the relationship between movie duration and rating.
 
 ## **Feature Engineering**
 
@@ -68,10 +68,10 @@ Converting data types and cleaning values in certain columns like year and durat
 
 The machine learning modeling section includes implementing and evaluating various regression models to predict movie ratings:
 
-Linear Regression Model: Training and evaluating a linear regression model.
+1.Linear Regression Model: Training and evaluating a linear regression model.
 
-K-Nearest Neighbors (KNN) Regression Model: Tuning the number of neighbors parameter and evaluating the KNN regression model.
+2.K-Nearest Neighbors (KNN) Regression Model: Tuning the number of neighbors parameter and evaluating the KNN regression model.
 
-Random Forest Regression: Implementing and evaluating a random forest regression model.
+3.Random Forest Regression: Implementing and evaluating a random forest regression model.
 
-Gradient Boosting Regression: Implementing and evaluating a gradient boosting regression model.
+4.Gradient Boosting Regression: Implementing and evaluating a gradient boosting regression model.
