@@ -19,10 +19,10 @@ Libraries: Utilized various Python libraries including NumPy, Pandas, Matplotlib
 The dataset used in this project is the Titanic dataset, which provides information about passengers aboard the Titanic. It includes attributes such as PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, and Embarked.
 
 ## **Project Overview**
-### **Data Preprocessing**: Handled missing values, dropped irrelevant columns, and encoded categorical variables.
+Data Preprocessing: Handled missing values, dropped irrelevant columns, and encoded categorical variables.
 
-### **Exploratory Data Analysis**: Analyzed statistical measures and visualized data to understand the distribution of survivors.
+Exploratory Data Analysis: Analyzed statistical measures and visualized data to understand the distribution of survivors.
 
-### **Model Building**: Implemented logistic regression for binary classification.
+Model Building: Implemented logistic regression for binary classification.
 
-### **Model Evaluation**: Evaluated the model's performance using accuracy score on training and testing datasets.
+Model Evaluation: Evaluated the model's performance using accuracy score on training and testing datasets.
