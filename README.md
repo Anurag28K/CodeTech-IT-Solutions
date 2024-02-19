@@ -79,7 +79,7 @@ The machine learning modeling section includes implementing and evaluating vario
 
 
 
-#**Credit Card Fraud Detection Project**
+# **3-Credit Card Fraud Detection Project**
 
 ## **Introduction**
 
